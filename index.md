@@ -8,7 +8,7 @@ Feel free to explore my projects and publications below.
 ---
 - [Projects](/page/projects.md)
 - [Publications](/page/publications.md)
-- [Experience](/page/experience.md)
+- [Experience](/page/experiences.md)
 
 ### Contact Me:
 - [GitHub](https://github.com/graced03)
