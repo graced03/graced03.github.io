@@ -6,9 +6,9 @@ I am a PhD candidate in Health Informatics at Johns Hopkins University, working 
 Feel free to explore my projects and publications below.
 
 ---
-- [Projects](/projects.md)
-- [Publications](/publications.md)
-- [Experience](/experience.md)
+- [Projects](/page/projects.md)
+- [Publications](/page/publications.md)
+- [Experience](/page/experience.md)
 
 ### Contact Me:
 - [GitHub](https://github.com/graced03)
