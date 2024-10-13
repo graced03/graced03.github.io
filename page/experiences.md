@@ -1,7 +1,6 @@
 # Professional Experience
 
-dddd
-dddd
+Professional Experience
 
 ## Johns Hopkins University, Graduate Research Assistant (Sep 2021 - Present)
 - **Project**: OHDSI/LegendT2DM – Developed a Bayesian model to compare treatments for Type 2 Diabetes.
